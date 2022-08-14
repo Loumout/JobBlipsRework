@@ -1,4 +1,4 @@
-# REWORK FROM https://github.com/aymannajim/an_jobBlips
+# REWORK FROM https://github.com/aymannajim/an_jobBlips repository
 
 # Works for job 1 and job 2 !
 
