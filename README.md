@@ -1,14 +1,18 @@
+# REWORK FROM https://github.com/aymannajim/an_jobBlips
+
+# Works for job 1 and job 2 !
+
 # **Create Job-Based Blips easily!** [an_jobBlips]
-**[Working for both ESX & QBCore]**
+**[Working for ESX]**
 
 ## Features
 - You can create blips with the ability to show/hide for specific jobs
 - Blips will update when your job is updated
-- Supports both ESX and QBCore
+- Supports ESX
 - Easy-to-Configure!
 
 ## Dependencies
-- ESX 1.1+ or QBCore
+- ESX 1.1+
 
 ## Configuration
 ### You will find everything you need in `config.lua`
